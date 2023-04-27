@@ -1,0 +1,11 @@
+* {
+    width: auto;
+    height: auto;
+    padding: auto;
+    margin: auto;
+}
+
+body {
+    background-color:url(static/img/bg-body.jpg);
+    background-position: center;
+}
